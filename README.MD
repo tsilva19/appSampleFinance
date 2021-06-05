@@ -30,4 +30,4 @@
 
 ## Depositar Valor
 
-1[](app7.JPG)
+![](app7.JPG)
